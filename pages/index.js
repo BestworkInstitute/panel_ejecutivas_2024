@@ -236,7 +236,7 @@ export default function Home() {
                     {showFormSelection && (
                         <div>
                             <button onClick={() => showForm('https://sedsa.activehosted.com/f/38')}>REFERIDOS</button>
-                            <button onClick={() => showForm('https://sedsa.activehosted.com/f/496')}>BIENVENIDA Y ONBOARDING</button>
+                            <button onClick={() => showForm('https://bienvenida-alumno.vercel.app/')}>BIENVENIDA Y ONBOARDING</button>
                         </div>
                     )}
                 </div>
