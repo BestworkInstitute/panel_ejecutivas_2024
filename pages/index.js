@@ -215,7 +215,7 @@ export default function Home() {
                     {/* Formulario de búsqueda */}
                     <form onSubmit={handleSearch}>
                         <h3>Verifica correo del contacto para ingresar a los formularios</h3>
-                        <h5>REFERIDOS - BIENVENIDA - ONBOARDING</h5>
+                        <h5>REFERIDOS - BIENVENIDA Y ONBOARDING</h5>
                         <input
                             type="email"
                             placeholder="Introduce el correo"
