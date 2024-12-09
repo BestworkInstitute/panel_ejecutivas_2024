@@ -236,8 +236,7 @@ export default function Home() {
                     {showFormSelection && (
                         <div>
                             <button onClick={() => showForm('https://sedsa.activehosted.com/f/38')}>REFERIDOS</button>
-                            <button onClick={() => showForm('https://sedsa.activehosted.com/f/496')}>BIENVENIDA</button>
-                            <button onClick={() => showForm('https://calendly.com/onboarding_bestwork/onboarding')}>ONBOARDING</button>
+                            <button onClick={() => showForm('https://sedsa.activehosted.com/f/496')}>BIENVENIDA Y ONBOARDING</button>
                         </div>
                     )}
                 </div>
